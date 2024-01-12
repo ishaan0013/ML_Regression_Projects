@@ -4,8 +4,8 @@ The dataset link is [HERE](https://www.kaggle.com/datasets/iamsouravbanerjee/hou
 
 
 
-# As GitHub does not permit the inclusion of interactive Plotly images, I am providing a video demonstration of the dynamic plots. Please note that the video is accelerated due to GitHub's 10MB restriction; consider adjusting the playback speed to thoroughly observe the precise numbers on the plots.
+# As GitHub does not permit the inclusion of interactive Plotly images, In the README file, a GIF has been included for a quick overview of all plots. However, if you prefer high-definition images, there is also an attached video available for download, allowing you to watch the plots in HD."
 
 
-![Alt text](Plots-ezgif.com-video-to-gif-converter.gif)
+![Alt text](Plots_GIF.gif)
 
